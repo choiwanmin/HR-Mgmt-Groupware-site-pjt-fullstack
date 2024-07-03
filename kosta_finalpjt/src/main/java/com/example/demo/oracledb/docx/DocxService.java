@@ -228,7 +228,6 @@ public class DocxService {
 					d.getTaskprocsres(), d.getDeptandmeetloc(), d.getDayoffclasf(), d.getParticipant(), d.getFormtype(),
 					d.getAprovdoc(), d.getDocxorder(), d.getStatus(), d.getDocxkey(), d.getOrderloc()));
 		}
-
 		if (!list.isEmpty()) {
 			DocxDto dto = list.get(0);
 			System.out.println(dto.getDocxkey() + "__" + dto.getFormtype());
