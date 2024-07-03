@@ -1,5 +1,4 @@
-# KOSTA FINAL PROJECT
-#### 웹 풀스택 개발
+# KOSTA FINAL PROJECT<br/><h3>(웹 풀스택 개발)</h3>
 
 ## 목차
 * [프로젝트 개요](#프로젝트-개요)
