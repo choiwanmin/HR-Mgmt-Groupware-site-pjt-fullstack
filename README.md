@@ -26,7 +26,7 @@
  |이름|담당 영역|
  |:---|:---|
  |최완민(팀장)|`USERS`, `MEMBERS`, `WORK&EDU`|
- |진하경|`WORKRECORD`|
+ |진하경|`WORK_RECORD`|
 
  * `GROUPWARE SYSTEM` 영역
  
