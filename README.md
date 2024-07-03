@@ -30,7 +30,7 @@
  
  |이름|담당 영역|
  |:---|:---|
- |백승훈|`DOCX`|
+ |백승훈      |`DOCX`|
  |정윤석|`MAIL`|
  |황규형|`CHAT`|
 
@@ -39,7 +39,7 @@
  |영역|기술|
  |:---|:---|
  |Front-end|`html`, `CSS`, `javascript`, `thymeleaf`, `JQuery`|
- |Back-end|`Java`, `Spring Boot`, `JPA`, `maven`, `Spring Security`, `Websocket`, `Spring Batch`, `Scheduler`, `JDBC`, `Lombok`|
+ |Back-end |`Java`, `Spring Boot`, `JPA`, `maven`, `Spring Security`, `Websocket`, `Spring Batch`, `Scheduler`, `JDBC`, `Lombok`|
  |DB|`Oracle`, `MariaDB` |
  |IDE|`Eclipse`, `Intellij`, `Oracle Sql Developer`|
  |SCM|`Git&Github`|
