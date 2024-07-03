@@ -1,4 +1,4 @@
-# HRD system 개<br/>
+# HRD system 개발<br/>
 
 ## 목차
 * [프로젝트 개요](#프로젝트-개요)
