@@ -50,6 +50,7 @@
 
 ## 프로젝트 소개
 #### 관리 시스템 정의
+![kosta_final_pjt_ppt_ver_fianl_1](https://github.com/choiwanmin/kosta_final_pjt/assets/111493653/4eea3baf-dee1-4870-a23b-0be259766d20)
 #### 협업 시스템 정의
 
 ## 상세 기능
