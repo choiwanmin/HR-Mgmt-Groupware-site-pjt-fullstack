@@ -86,7 +86,6 @@ public class DocxController {
 		List<DocxDto> docxList = service.getAllByDocxorderWithPagination(page, size);
 		int totalCount = service.getTotalCountByDocxorder();
 		int totalPage = (int) Math.ceil((double) totalCount / size);
-		
 		map.addAttribute("list", docxList);
 		map.addAttribute("currentPage", page);
 		map.addAttribute("totalPages", totalPage);
@@ -223,6 +222,7 @@ public class DocxController {
 	}
 	
 	// 전체문서 리스트 출력
+	@SuppressWarnings({ "unchecked", "rawtypes" })
 	@ResponseBody
 	@GetMapping("/mainList")
 	public Map mainList() {
