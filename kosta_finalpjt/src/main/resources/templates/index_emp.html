@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Insert title here</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link rel="stylesheet" th:href="@{/css/common/reset.css}">
@@ -10,6 +11,7 @@
   <link rel="stylesheet" th:href="@{/css/common/header.css}">
   <link rel="stylesheet" th:href="@{/css/common/modal.css}">
   <link rel="stylesheet" th:href="@{/css/charts/charts.css}">
+  <link rel="stylesheet" th:href="@{/css/main.css}">
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
           integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
           crossorigin="anonymous"></script>
@@ -17,38 +19,26 @@
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script th:src="@{/js/charts.js}"></script>
   <script th:src="@{/js/memmodal.js}"></script>
+  <script th:src="@{/js/docxMain.js}"></script>
+  <script th:src="@{/js/weather.js}"></script>
 </head>
 <body>
 <div th:replace="~{/common/header :: header}"></div>
 <div th:replace="~{/common/leftnav :: leftNav}"></div>
-<div class="main_body">
-
-
-  <!--	아래 영역은 임시 영역임  -->
-  <section id="test_link">
-    <div style="position: fixed; right: 100px; top: 50px; z-index: 500;">
-      <div style="border: 1px black solid; margin: 10px; padding: 3px; width: 200px;">
-        <h2>test용 간이 링크 영역</h2>
-        <div style="margin-top: 5px">
-          <button type="button" onclick="location.href='/member/memberlist'">사용자 목록</button>
-          <button type="button" onclick="location.href='/auth/docx/add'">문서테스트</button>
-        </div>
-      </div>
-    </div>
-  </section>
-
+<div class="main_body" style="padding-bottom: 80px">
   <section id="main_section">
     <div class="chart_body">
-      <div class="chart_head">
-        <b th:text="${session.usernm}"></b>
-        <b> 님 반갑습니다.</b>
-        <hr>
+      <div class="chart_head" style="display:flex; justify-content:space-between; margin-bottom:30px; vertical-align: center">
+      	<div style="display: flex; align-items: center">
+	        <b th:text="${session.usernm}"></b>
+	        <b> 님 반갑습니다.</b>
+        </div>
       </div>
       <!--  테이블 출력 영역-->
       <div class="chart_area">
         <div class="chart_area_head">
           <div style="padding-top: 5px">
-            <p>일정 관리</p>
+            <p class="board_title" style="margin-bottom: 20px">일정 관리</p>
           </div>
           <div class="chart_menu">
             <button type="button" onclick="location.href='/auth/chart/gantt'">간트차트</button>
@@ -77,29 +67,48 @@
               <td th:text="${s.title}" style="width: 400px"></td>
               <td th:text="${s.st}"></td>
               <td th:text="${s.ed}"></td>
-              <td th:text="${s.percent}"></td>
-              <td><input type="checkbox" th:checked="${s.chartStatus == 'yes'}" class="chart_edit_btn"></td>
-              <td>
+              <td th:if="${s.taskid != 0}"><p th:text="${s.percent}"></p></td>
+              <td th:if="${s.taskid != 0}">
+                <input type="checkbox" th:checked="${s.chartStatus == 'yes'}" class="chart_edit_btn">
+              </td>
+              <td th:if="${s.taskid != 0}">
                 <button type="button" data-bs-toggle="modal" data-bs-target="#memberModal" class="taskidshare">
                   <i class="fa-solid fa-share-nodes"></i>
                 </button>
               </td>
-              <td>
+              <td th:if="${s.taskid != 0}">
                 <button type="button" data-bs-toggle="modal" data-bs-target="#chartModal" class="taskidset">
                   <i class="fa-regular fa-pen-to-square"></i>
                 </button>
               </td>
-              <td><a th:href="@{/auth/chart/del(id=${s.taskid})}"><i class="fa-solid fa-eraser"></i></a></td>
+              <td th:if="${s.taskid != 0}">
+                <a th:href="@{/auth/chart/del(id=${s.taskid})}"><i class="fa-solid fa-eraser"></i></a>
+              </td>
             </tr>
           </table>
         </div>
       </div>
       <div class="board_body">
         <div class="board_body_box">
-          <p>공지 게시판</p>
+          <div class="board_title" style="margin-bottom: 10px">서류 게시판</div>
+          <div class="main_table_wrapper">
+            <table class="table_w100 board_table">
+              <thead class="table_bottom_style">
+              <th style="width: 20%;">번호</th>
+              <th style="width: 60%;">제목</th>
+              <th style="width: 20%;">작성자</th>
+              </thead>
+              <tbody class="main_docx_list">
+              <tr></tr>
+              </tbody>
+            </table>
+          </div>
         </div>
         <div class="board_body_box">
-          <p>서류 게시판</p>
+          <div class="board_title" style="margin-bottom: 10px">날씨</div>
+          <div>
+            <b class="weather-table chart_head_weather" id="weather"></b>
+          </div>
         </div>
       </div>
     </div>
@@ -221,4 +230,5 @@
 </div>
 <div class="modal_background"></div>
 </body>
+ <link rel="stylesheet" th:href="@{/css/chat/weather.css}">
 </html>
