@@ -63,6 +63,7 @@
     width: 80%;
     border-top: 2px solid #E2E4EC;
     margin: 0 auto;
+    margin-bottom: 100px;
 }
 .record_rtable{
     width: 100%;
@@ -76,4 +77,83 @@
 .record_list>tr{
     line-height: 3rem;
     border-bottom: 2px solid #E2E4EC;
+}
+
+/* 부서장용 */
+.title{
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+.record_dept_wrapper{
+    padding: 50px 0;
+}
+.record_box_wrapper{
+    display: flex;
+    justify-content: space-between;
+
+}
+.record_data{
+    width: calc(100% / 4 - 10px);
+    height: 200px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.record_icon{
+    width: 30%;
+}
+.record_text_wrapper{
+    width: 60%;
+}
+.record_text_title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #2e2f31;
+    padding-bottom: 5px;
+}
+.record_text_content{
+    font-size: 20px;
+}
+/* admin chart */
+.chart_wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.chart_title{
+    font-size: 20px;
+    font-weight: 600;
+    color: #2e2f31;
+    padding-bottom: 30px;
+}
+.chart{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 15px;
+}
+.chart:first-child{
+    padding-right: 20px;
+}
+.chart_can{
+    padding: 30px 10px;
+    background: white;
+}
+.dept_table{
+    justify-content: center;
+}
+.dept_select_wrapper{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-bottom: 20px;
+    padding-top: 50px;
+}
+.dept_text{
+    padding-right: 10px;
+    font-weight: 600;
 }
