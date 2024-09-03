@@ -24,7 +24,7 @@
 ## 기술 스택
 |구분|사용 기술|
 |:---|:---|
-|Front-end|`HTML`, `CSS`, `Javascript`, `Thymeleaf`, `Ajax`, `JQuery`|
+|Front-end|`HTML`, `CSS`, `Javascript`, `Bootstrap`, `Thymeleaf`, `Ajax`, `JQuery`|
 |Back-end|`Java`, `Maven`, `Spring Boot`, `Spring Data JPA`, `JDBC API`, `Oracle Driver`, <br/>`Lombok`, `Spring Security`, `WebSocket` 등|
 |DBMS|`Oracle`|
 |Server|`Apache Tomcat`|
