@@ -25,7 +25,7 @@
 |구분|사용 기술|
 |:---|:---|
 |Front-end|`HTML`, `CSS`, `Javascript`, `Thymeleaf`, `Ajax`, `JQuery`|
-|Back-end|`Java`, `Maven`, `Spring Boot`, `Spring Data JPA`, `JDBC API`, `Oracle Driver`, `Lombok`, `Spring Security`, `WebSocket` 등|
+|Back-end |`Java`, `Maven`, `Spring Boot`, `Spring Data JPA`, `JDBC API`, `Oracle Driver`, `Lombok`, `Spring Security`, `WebSocket` 등|
 |DBMS|`Oracle`|
 |SEVER|`Apache Tomcat`|
 |IDE|`Eclipse`, `IntelliJ`, `Oracle Sql Developer`|
