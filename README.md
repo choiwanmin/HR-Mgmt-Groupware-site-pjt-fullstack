@@ -340,7 +340,6 @@
 ┃ ┣ 📜mvnw
 ┃ ┣ 📜mvnw.cmd
 ┃ ┗ 📜pom.xml
-┗ 📜README.md
 ```
 
 </div>
