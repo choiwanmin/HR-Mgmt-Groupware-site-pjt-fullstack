@@ -47,7 +47,7 @@
 <summary>DB ERD 보기</summary>
 <div markdown="1">
 
- |![kosta_final_pjt_ppt_ver_fianl_erd](https://github.com/choiwanmin/kosta_final_pjt/assets/111493653/e12c9fed-4f67-4b2f-a7a6-3d98bfde1fa7)|
+ |![finalpjt_erd](https://github.com/user-attachments/assets/e089ae4f-fe98-44ad-860a-68801e706310)|
  |:---:|
  
 </div>
@@ -59,7 +59,7 @@
 <summary>프로젝트 흐름도 보기</summary>
 <div markdown="1">
 
- |![kosta_final_pjt_ppt_ver_fianl_flow](https://github.com/choiwanmin/kosta_final_pjt/assets/111493653/ea5a340a-7cc2-4041-86d2-10a8f2ea69bb)|
+ |![finalpjt_flow](https://github.com/user-attachments/assets/f1341d66-8b9d-4328-b079-1e86b2c1b0c9)|
  |:---:|
  
 </div>
