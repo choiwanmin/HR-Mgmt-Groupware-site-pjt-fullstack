@@ -1,5 +1,5 @@
 # KOSTA FINAL PROJECT<br/>(`HRD&GROUPWARE SYSTEM` 웹 풀스택 개발)
-*※ 기존에 수행한 [https://github.com/choiwanmin/OMC_project](https://github.com/choiwanmin/kosta_final_pjt) 프로젝트를 정비 및 정리*
+*※ 기존에 수행한 https://github.com/choiwanmin/kosta_final_pjt 프로젝트를 정비 및 정리*
 
 ## 목차
  * [프로젝트 소개](#프로젝트-소개)
