@@ -27,7 +27,7 @@
 |Front-end|`HTML`, `CSS`, `Javascript`, `Thymeleaf`, `Ajax`, `JQuery`|
 |Back-end |`Java`, `Maven`, `Spring Boot`, `Spring Data JPA`, `JDBC API`, `Oracle Driver`, `Lombok`, `Spring Security`, `WebSocket` 등|
 |DBMS|`Oracle`|
-|SEVER|`Apache Tomcat`|
+|Server|`Apache Tomcat`|
 |IDE|`Eclipse`, `IntelliJ`, `Oracle Sql Developer`|
 |SCM|`Git & Github`|
 |ETC.|`Notion`, `Kakaotalk`, `ChatGPT` 등|
