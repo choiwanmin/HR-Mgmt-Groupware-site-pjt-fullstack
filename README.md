@@ -54,10 +54,10 @@
   </div>
   </details>
   
-> ### 협업 툴 기능
+> ### 협업 도구 기능
 
   <details>
-  <summary>인사 관리 기능 보기</summary>
+  <summary>협업 도구 기능 보기</summary>
   <div markdown="1">
   
   * 공지 게시판 기능
