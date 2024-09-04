@@ -168,6 +168,10 @@
 </div>
 </details>
 
+<details>
+<summary>문서 페이지 보기</summary>
+<div markdown="1">
+
  |문서함 메인|내 문서함|
  |:---:|:---:|
  |||
