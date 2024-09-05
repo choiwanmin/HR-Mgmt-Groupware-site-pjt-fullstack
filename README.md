@@ -184,7 +184,7 @@
 <summary>문서 페이지 보기</summary>
 <div markdown="1">
 
- |문서함 메인|내 문서함|
+ |문서함 메인|내 문서 목록|
  |:---:|:---:|
  |![finalpjt_fullstack_ui (30)](https://github.com/user-attachments/assets/ebe0f832-f6bd-4eb7-88f7-bd7c93130de8)|![finalpjt_fullstack_ui (31)](https://github.com/user-attachments/assets/15d939bf-0779-430b-84d3-3028425c1ee7)|
 
