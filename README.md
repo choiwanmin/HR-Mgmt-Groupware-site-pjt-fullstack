@@ -148,7 +148,7 @@
 
  |부서장(직원) 메인|부서 근태관리|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (35)](https://github.com/user-attachments/assets/2e6ae35e-875c-4d8c-8733-5006c4226505)|![finalpjt_fullstack_ui (36)](https://github.com/user-attachments/assets/73ad87a3-e9de-4b70-a5d4-00c35ea0a8c2)|
+ |![finalpjt_fullstack_ui (35)](https://github.com/user-attachments/assets/354de602-976b-43a1-94ed-9c9a3b1b3759)|![finalpjt_fullstack_ui (36)](https://github.com/user-attachments/assets/55a964aa-0c5e-43dd-b193-55ccaf9b0025)|
  
 </div>
 </details>
@@ -159,7 +159,7 @@
 
  |스케줄러 메인|간트차트로 보기|달력으 보기|일정 추가|
  |:---:|:---:|:---:|:---:|
- |![finalpjt_fullstack_ui (41)](https://github.com/user-attachments/assets/7b0f4110-4e6d-49ef-8344-e50cc720d71e)|![finalpjt_fullstack_ui (42)](https://github.com/user-attachments/assets/61d49ef5-e9e6-47f1-9333-430fefd316de)|![finalpjt_fullstack_ui (43)](https://github.com/user-attachments/assets/b5775b73-e2bd-4461-bb5c-17cb7fb5220e)|![finalpjt_fullstack_ui (1)](https://github.com/user-attachments/assets/ebb20eb3-5d5e-4979-b7e6-6edc15754026)|
+ |![finalpjt_fullstack_ui (41)](https://github.com/user-attachments/assets/d385b4a0-0f34-4a68-9117-0f3664c1efde)|![finalpjt_fullstack_ui (42)](https://github.com/user-attachments/assets/68f97326-69d7-47ec-b58f-63142c808dbf)|![finalpjt_fullstack_ui (43)](https://github.com/user-attachments/assets/d40fd1b0-3904-4c64-9d57-8cd1eb68a04d)|![finalpjt_fullstack_ui (1)](https://github.com/user-attachments/assets/2026475d-5e30-457b-b988-839eb4ec4e6d)|
 
 
 </div>
