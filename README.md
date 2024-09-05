@@ -140,15 +140,15 @@
 
  |직원 메인|출퇴근 관리|
  |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (21)](https://github.com/user-attachments/assets/2435f7f1-7eaa-407b-84a9-17f8882933e9)|![finalpjt_fullstack_ui (22)](https://github.com/user-attachments/assets/97e366ed-9488-485e-9934-b96941d8dcaa)|
 
  |내 로그인 정보|내 이력 정보|
  |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (23)](https://github.com/user-attachments/assets/9ba65b02-8178-472f-9e6a-c725041b686f)|![finalpjt_fullstack_ui (24)](https://github.com/user-attachments/assets/3cca83c2-f471-4676-9b8e-77a35ca4e6f8)|
 
  |부서장(직원) 메인|부서 근태관리|
  |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (35)](https://github.com/user-attachments/assets/2e6ae35e-875c-4d8c-8733-5006c4226505)|![finalpjt_fullstack_ui (36)](https://github.com/user-attachments/assets/73ad87a3-e9de-4b70-a5d4-00c35ea0a8c2)|
  
 </div>
 </details>
@@ -157,9 +157,9 @@
 <summary>스케줄러 페이지 보기</summary>
 <div markdown="1">
 
- |채팅 메인|채팅 멤버 초대|
- |:---:|:---:|
- |||
+ |스케줄러 메인|간트차트로 보기|달력으 보기|일정 추가|
+ |:---:|:---:|:---:|:---:|
+ |![finalpjt_fullstack_ui (41)](https://github.com/user-attachments/assets/7b0f4110-4e6d-49ef-8344-e50cc720d71e)|![finalpjt_fullstack_ui (42)](https://github.com/user-attachments/assets/61d49ef5-e9e6-47f1-9333-430fefd316de)|![finalpjt_fullstack_ui (43)](https://github.com/user-attachments/assets/b5775b73-e2bd-4461-bb5c-17cb7fb5220e)|![finalpjt_fullstack_ui (1)](https://github.com/user-attachments/assets/ebb20eb3-5d5e-4979-b7e6-6edc15754026)|
 
 
 </div>
