@@ -150,6 +150,18 @@
 </details>
 
 <details>
+<summary>스케줄러 페이지 보기</summary>
+<div markdown="1">
+
+ |채팅 메인|채팅 멤버 초대|
+ |:---:|:---:|
+ |||
+
+
+</div>
+</details>
+
+<details>
 <summary>채팅 페이지 보기</summary>
 <div markdown="1">
 
