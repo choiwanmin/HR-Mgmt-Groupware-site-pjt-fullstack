@@ -171,15 +171,11 @@
 
  |채팅 메인|채팅 멤버 초대|
  |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (37)](https://github.com/user-attachments/assets/d4fa72ee-d10a-4236-8b46-9f56e681f54c)|![finalpjt_fullstack_ui (45)](https://github.com/user-attachments/assets/360bd6b2-8888-415f-9581-5b8601e84bb8)|
 
  |1:1 채팅|그룹 채팅|
  |:---:|:---:|
- |||
-
- |채팅 대화|첨부 파일 전달|
- |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (39)](https://github.com/user-attachments/assets/6ec86e41-22ed-46cc-8b40-050c467f5097)|![finalpjt_fullstack_ui (40)](https://github.com/user-attachments/assets/c1d1705c-e62c-4ab6-8bd4-400575edda18)|
 
 </div>
 </details>
@@ -190,11 +186,11 @@
 
  |문서함 메인|내 문서함|
  |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (30)](https://github.com/user-attachments/assets/ebe0f832-f6bd-4eb7-88f7-bd7c93130de8)|![finalpjt_fullstack_ui (31)](https://github.com/user-attachments/assets/15d939bf-0779-430b-84d3-3028425c1ee7)|
 
  |문서 작성|문서 상세 페이지|
  |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (33)](https://github.com/user-attachments/assets/a0e0c964-a3d5-4018-9162-ab7fcd4f23e5)|![finalpjt_fullstack_ui (32)](https://github.com/user-attachments/assets/e2f56927-de0f-4da0-93bf-51b88c0c8f84)|
 
 </div>
 </details>
