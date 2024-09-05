@@ -98,7 +98,7 @@
  
  |메인(로그인)|회원가입|
  |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (2)](https://github.com/user-attachments/assets/837debc9-9698-4c62-bd50-38813fe93b6e)|![finalpjt_fullstack_ui (3)](https://github.com/user-attachments/assets/213bc489-852c-4af0-bb6c-8360b7c72368)|
 
 </div>
 </details>
@@ -109,21 +109,25 @@
 <summary>관리자 페이지 보기</summary>
 <div markdown="1">
  
- |관리자 메인|사원 근태 관리|
+ |관리자 메인|사원 근태 관리(근무 시간)|
  |:---:|:---:|
- |||
+ |![finalpjt_fullstack_ui (5)](https://github.com/user-attachments/assets/fddaa42b-c0a9-4bda-9cdc-e5608b43d8e0)|![finalpjt_fullstack_ui (6)](https://github.com/user-attachments/assets/8900313b-d12f-4411-9e56-c5718da4bf9d)|
 
- |직원 목록|사용자 로그인 정보|사용자 로그인 정보 수정|
- |:---:|:---:|:---:|
- ||||
+ |사원 근태 관리(초과 근무)|사원 근태 관리(부서 선택)|
+ |:---:|:---:|
+ |![finalpjt_fullstack_ui (7)](https://github.com/user-attachments/assets/4814ca3e-590a-4ea2-a175-4e34edbe0222)|![finalpjt_fullstack_ui (8)](https://github.com/user-attachments/assets/0f6343d9-3d53-4433-a3df-1a5222c4371a)|
+
+ |직원 목록|사용자 로그인 정보|사용자 로그인 정보 수정|직원 이력 정보|직원 이력 정보 수정|
+ |:---:|:---:|:---:|:---:|:---:|
+ |![finalpjt_fullstack_ui (9)](https://github.com/user-attachments/assets/7a02f46b-7d59-458b-ab61-a842e9ca1405)|![finalpjt_fullstack_ui (10)](https://github.com/user-attachments/assets/55db44a9-06a0-4a22-8478-a499964b3a36)|![finalpjt_fullstack_ui (11)](https://github.com/user-attachments/assets/7679cbca-eb3a-44e8-8fb0-aa9ed738dc82)|![finalpjt_fullstack_ui (12)](https://github.com/user-attachments/assets/5f0b24a3-10ed-4aee-9cd0-111d9c4605a6)|![finalpjt_fullstack_ui (44)](https://github.com/user-attachments/assets/4070d845-cf8b-4cd3-938f-63f1458a76d1)|
 
  |부서 목록|부서 추가|부서 상세|부서 수정|
  |:---:|:---:|:---:|:---:|
- |||||
+ |![finalpjt_fullstack_ui (13)](https://github.com/user-attachments/assets/e40b1cd6-d681-47d5-bb09-31c2b65f8d09)|![finalpjt_fullstack_ui (14)](https://github.com/user-attachments/assets/5d6a85c7-1fec-43aa-a9b5-52faaa5c4438)|![finalpjt_fullstack_ui (15)](https://github.com/user-attachments/assets/253dc158-a34a-4146-85fa-9111399d84d2)|![finalpjt_fullstack_ui (16)](https://github.com/user-attachments/assets/735279aa-b590-4a2d-bef6-5621b8065ad1)|
 
  |직급 목록|직급 추가|직급 상세|직급 수정|
  |:---:|:---:|:---:|:---:|
- |||||
+ |![finalpjt_fullstack_ui (17)](https://github.com/user-attachments/assets/24447b61-bbcc-4f12-a730-ed0d51286476)|![finalpjt_fullstack_ui (18)](https://github.com/user-attachments/assets/9e90161a-105e-42dc-9cf2-c401603123b7)|![finalpjt_fullstack_ui (19)](https://github.com/user-attachments/assets/2757c91f-bf3d-41b9-ad01-1b15681d5ec5)|![finalpjt_fullstack_ui (20)](https://github.com/user-attachments/assets/3e3b8848-bfb9-4ba5-8a55-503846ab7b42)|
   
 </div>
 </details>
