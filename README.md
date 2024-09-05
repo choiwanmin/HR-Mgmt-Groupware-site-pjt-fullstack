@@ -115,7 +115,7 @@
 
  |사원 근태 관리(초과 근무)|사원 근태 관리(부서 선택)|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (7)](https://github.com/user-attachments/assets/4814ca3e-590a-4ea2-a175-4e34edbe0222)|![finalpjt_fullstack_ui (8)](https://github.com/user-attachments/assets/0f6343d9-3d53-4433-a3df-1a5222c4371a)|
+ |![finalpjt_fullstack_ui (7)](https://github.com/user-attachments/assets/4814ca3e-590a-4ea2-a175-4e34edbe0222)|![finalpjt_fullstack_ui (8)](https://github.com/user-attachments/assets/648ffc46-8191-490c-9686-55cb85545914)|
 
  |직원 목록|사용자 로그인 정보|사용자 로그인 정보 수정|직원 이력 정보|직원 이력 정보 수정|
  |:---:|:---:|:---:|:---:|:---:|
