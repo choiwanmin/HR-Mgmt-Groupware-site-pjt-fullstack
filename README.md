@@ -133,15 +133,15 @@
 
  |직원 메인|출퇴근 관리|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (21)](https://github.com/user-attachments/assets/2435f7f1-7eaa-407b-84a9-17f8882933e9)|![finalpjt_fullstack_ui (22)](https://github.com/user-attachments/assets/97e366ed-9488-485e-9934-b96941d8dcaa)|
+ |![finalpjt_fullstack_ui (20)](https://github.com/user-attachments/assets/3c23ad82-0dcf-4e87-a973-3a32d97ee298)|![finalpjt_fullstack_ui (21)](https://github.com/user-attachments/assets/8d2e38aa-e19f-48ba-b2e2-1209325e14e2)|
 
  |내 로그인 정보|내 이력 정보|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (23)](https://github.com/user-attachments/assets/9ba65b02-8178-472f-9e6a-c725041b686f)|![finalpjt_fullstack_ui (24)](https://github.com/user-attachments/assets/3cca83c2-f471-4676-9b8e-77a35ca4e6f8)|
+ |![finalpjt_fullstack_ui (22)](https://github.com/user-attachments/assets/8bfd5058-554d-4df6-b45a-147dcb28fbaa)|![finalpjt_fullstack_ui (23)](https://github.com/user-attachments/assets/7dc26278-b0db-4b52-b645-01e257ff08ac)|
 
  |부서장(직원) 메인|부서 근태관리|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (35)](https://github.com/user-attachments/assets/354de602-976b-43a1-94ed-9c9a3b1b3759)|![finalpjt_fullstack_ui (36)](https://github.com/user-attachments/assets/55a964aa-0c5e-43dd-b193-55ccaf9b0025)|
+ |![finalpjt_fullstack_ui (24)](https://github.com/user-attachments/assets/96777272-9798-483f-8bdf-ce7b33367d5b)|![finalpjt_fullstack_ui (25)](https://github.com/user-attachments/assets/31bc1d2c-ad52-4da0-82b3-48d47aaec4e2)|
  
 </div>
 </details>
@@ -152,7 +152,7 @@
 
  |스케줄러 메인|간트차트로 보기|달력으 보기|일정 추가|
  |:---:|:---:|:---:|:---:|
- |![finalpjt_fullstack_ui (41)](https://github.com/user-attachments/assets/d385b4a0-0f34-4a68-9117-0f3664c1efde)|![finalpjt_fullstack_ui (42)](https://github.com/user-attachments/assets/68f97326-69d7-47ec-b58f-63142c808dbf)|![finalpjt_fullstack_ui (43)](https://github.com/user-attachments/assets/d40fd1b0-3904-4c64-9d57-8cd1eb68a04d)|![finalpjt_fullstack_ui (1)](https://github.com/user-attachments/assets/2026475d-5e30-457b-b988-839eb4ec4e6d)|
+ |![finalpjt_fullstack_ui (26)](https://github.com/user-attachments/assets/8fd7aea7-f6dc-4f67-8006-6a97c2ee9a32)|![finalpjt_fullstack_ui (27)](https://github.com/user-attachments/assets/eb47f68c-7784-46ad-b281-b4965f2621c8)|![finalpjt_fullstack_ui (28)](https://github.com/user-attachments/assets/865ed4ef-938c-48e1-8aad-ad8fc2ed5a9a)|![finalpjt_fullstack_ui (29)](https://github.com/user-attachments/assets/528866ab-eaa0-42cf-a2af-74a71c0115b8)|
 
 
 </div>
