@@ -91,7 +91,7 @@
  
  |메인(로그인)|회원가입|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (2)](https://github.com/user-attachments/assets/837debc9-9698-4c62-bd50-38813fe93b6e)|![finalpjt_fullstack_ui (3)](https://github.com/user-attachments/assets/213bc489-852c-4af0-bb6c-8360b7c72368)|
+ |![finalpjt_fullstack_ui (1)](https://github.com/user-attachments/assets/d01d8cd1-0fbd-476e-8596-66437923fee9)|![finalpjt_fullstack_ui (2)](https://github.com/user-attachments/assets/d3abe184-391f-45d8-a0d8-93be4882763a)|
 
 </div>
 </details>
@@ -104,11 +104,11 @@
  
  |관리자 메인|사원 근태 관리(근무 시간)|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (5)](https://github.com/user-attachments/assets/fddaa42b-c0a9-4bda-9cdc-e5608b43d8e0)|![finalpjt_fullstack_ui (6)](https://github.com/user-attachments/assets/8900313b-d12f-4411-9e56-c5718da4bf9d)|
+ |![finalpjt_fullstack_ui (3)](https://github.com/user-attachments/assets/6eb77614-098e-457b-b90c-dff830b0c3bb)|![finalpjt_fullstack_ui (4)](https://github.com/user-attachments/assets/96099192-9a63-4c47-b64f-dc85c583aa8d)|
 
  |사원 근태 관리(초과 근무)|사원 근태 관리(부서 선택)|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (7)](https://github.com/user-attachments/assets/4814ca3e-590a-4ea2-a175-4e34edbe0222)|![finalpjt_fullstack_ui (8)](https://github.com/user-attachments/assets/648ffc46-8191-490c-9686-55cb85545914)|
+ |![finalpjt_fullstack_ui (5)](https://github.com/user-attachments/assets/1e3c370d-1fe6-4141-9a68-2246bcf4e295)|![finalpjt_fullstack_ui (6)](https://github.com/user-attachments/assets/3ecffef9-450b-47cc-bc8b-6e1ac0cbf62e)|
 
  |직원 목록|사용자 로그인 정보|사용자 로그인 정보 수정|직원 이력 정보|직원 이력 정보 수정|
  |:---:|:---:|:---:|:---:|:---:|
