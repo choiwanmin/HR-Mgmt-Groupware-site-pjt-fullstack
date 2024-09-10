@@ -162,13 +162,17 @@
 <summary>채팅 페이지 보기</summary>
 <div markdown="1">
 
- |채팅 메인|채팅 멤버 초대|
+ |채팅 메인|채팅 상대 초대|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (37)](https://github.com/user-attachments/assets/d4fa72ee-d10a-4236-8b46-9f56e681f54c)|![finalpjt_fullstack_ui (45)](https://github.com/user-attachments/assets/360bd6b2-8888-415f-9581-5b8601e84bb8)|
+ |![finalpjt_fullstack_ui (30)](https://github.com/user-attachments/assets/b09ea10a-04d2-4c89-9e65-b90863ba864d)|![finalpjt_fullstack_ui (31)](https://github.com/user-attachments/assets/c706919b-06ec-4316-8777-76fe6840d10f)|
 
- |1:1 채팅|그룹 채팅|
+ |1:1 대화|그룹 대화|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (39)](https://github.com/user-attachments/assets/6ec86e41-22ed-46cc-8b40-050c467f5097)|![finalpjt_fullstack_ui (40)](https://github.com/user-attachments/assets/c1d1705c-e62c-4ab6-8bd4-400575edda18)|
+ |![finalpjt_fullstack_ui (32)](https://github.com/user-attachments/assets/cba94419-0840-427f-ad6b-73bc065b7669)|![finalpjt_fullstack_ui (33)](https://github.com/user-attachments/assets/201f67c7-b41f-4aaa-aebb-458565cacd28)|
+
+ |대화방 이름 변경|대화 상대 정보 조회|
+ |:---:|:---:|
+ |![finalpjt_fullstack_ui (34)](https://github.com/user-attachments/assets/b6b43de1-34c2-4396-a13c-eecf2953ab0d)|![finalpjt_fullstack_ui (35)](https://github.com/user-attachments/assets/569ebc9c-9032-4f54-8bb6-51407caa3fd5)|
 
 </div>
 </details>
