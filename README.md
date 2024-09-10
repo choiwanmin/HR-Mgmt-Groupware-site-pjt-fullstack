@@ -193,6 +193,13 @@
 </details>
 
 <details>
+<summary> 공지 게시판 페이지 보기</summary>
+<div markdown="1">
+ 
+</div>
+</details>
+
+<details>
 <summary> 메일 페이지 보기</summary>
 <div markdown="1">
  
