@@ -108,19 +108,19 @@
 
  |사원 근태 관리(초과 근무)|사원 근태 관리(부서 선택)|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (5)](https://github.com/user-attachments/assets/1e3c370d-1fe6-4141-9a68-2246bcf4e295)|![finalpjt_fullstack_ui (6)](https://github.com/user-attachments/assets/3ecffef9-450b-47cc-bc8b-6e1ac0cbf62e)|
+ |![finalpjt_fullstack_ui (5)](https://github.com/user-attachments/assets/1e3c370d-1fe6-4141-9a68-2246bcf4e295)|![finalpjt_fullstack_ui (6)](https://github.com/user-attachments/assets/cabfa7fa-ce1d-46e7-9881-7c4cf512b309)|
 
  |직원 목록|사용자 로그인 정보|사용자 로그인 정보 수정|직원 이력 정보|직원 이력 정보 수정|
  |:---:|:---:|:---:|:---:|:---:|
- |![finalpjt_fullstack_ui (9)](https://github.com/user-attachments/assets/7a02f46b-7d59-458b-ab61-a842e9ca1405)|![finalpjt_fullstack_ui (10)](https://github.com/user-attachments/assets/55db44a9-06a0-4a22-8478-a499964b3a36)|![finalpjt_fullstack_ui (11)](https://github.com/user-attachments/assets/7679cbca-eb3a-44e8-8fb0-aa9ed738dc82)|![finalpjt_fullstack_ui (12)](https://github.com/user-attachments/assets/5f0b24a3-10ed-4aee-9cd0-111d9c4605a6)|![finalpjt_fullstack_ui (44)](https://github.com/user-attachments/assets/4070d845-cf8b-4cd3-938f-63f1458a76d1)|
+ |![finalpjt_fullstack_ui (7)](https://github.com/user-attachments/assets/5df284f6-206d-48db-b14b-b7dcd1d0c665)|![finalpjt_fullstack_ui (8)](https://github.com/user-attachments/assets/6f3ac6f6-6ff7-4f68-8242-925bc18fc89f)|![finalpjt_fullstack_ui (9)](https://github.com/user-attachments/assets/a1f3116c-f51b-468c-90e0-44fd1e2c4bcc)|![finalpjt_fullstack_ui (10)](https://github.com/user-attachments/assets/0a4f9746-9e12-4daf-979c-cf887292e2d9)|![finalpjt_fullstack_ui (11)](https://github.com/user-attachments/assets/f22cecd6-e3f8-454f-84f6-06a36684ac1f)|
 
  |부서 목록|부서 추가|부서 상세|부서 수정|
  |:---:|:---:|:---:|:---:|
- |![finalpjt_fullstack_ui (13)](https://github.com/user-attachments/assets/e40b1cd6-d681-47d5-bb09-31c2b65f8d09)|![finalpjt_fullstack_ui (14)](https://github.com/user-attachments/assets/5d6a85c7-1fec-43aa-a9b5-52faaa5c4438)|![finalpjt_fullstack_ui (15)](https://github.com/user-attachments/assets/253dc158-a34a-4146-85fa-9111399d84d2)|![finalpjt_fullstack_ui (16)](https://github.com/user-attachments/assets/735279aa-b590-4a2d-bef6-5621b8065ad1)|
+ |![finalpjt_fullstack_ui (12)](https://github.com/user-attachments/assets/76135498-2175-40c2-8ece-a95eebc5b2a2)|![finalpjt_fullstack_ui (13)](https://github.com/user-attachments/assets/d852e51a-4e68-4cef-a6fa-e04fe9b19b05)|![finalpjt_fullstack_ui (14)](https://github.com/user-attachments/assets/8fb4d9eb-13ca-4d3d-bae1-e9d000588a5d)|![finalpjt_fullstack_ui (15)](https://github.com/user-attachments/assets/30f86dfb-bb5b-4852-bbbc-dbe20aa6a65a)|
 
  |직급 목록|직급 추가|직급 상세|직급 수정|
  |:---:|:---:|:---:|:---:|
- |![finalpjt_fullstack_ui (17)](https://github.com/user-attachments/assets/24447b61-bbcc-4f12-a730-ed0d51286476)|![finalpjt_fullstack_ui (18)](https://github.com/user-attachments/assets/9e90161a-105e-42dc-9cf2-c401603123b7)|![finalpjt_fullstack_ui (19)](https://github.com/user-attachments/assets/2757c91f-bf3d-41b9-ad01-1b15681d5ec5)|![finalpjt_fullstack_ui (20)](https://github.com/user-attachments/assets/3e3b8848-bfb9-4ba5-8a55-503846ab7b42)|
+ |![finalpjt_fullstack_ui (16)](https://github.com/user-attachments/assets/610fa867-626c-49e8-898b-82cc80582cee)|![finalpjt_fullstack_ui (17)](https://github.com/user-attachments/assets/fa52e874-c2a9-4dc5-a351-6870adf12408)|![finalpjt_fullstack_ui (18)](https://github.com/user-attachments/assets/7dfb73fc-540c-4be4-afff-6b8fe8b9b9c4)|![finalpjt_fullstack_ui (19)](https://github.com/user-attachments/assets/a0c5a9dc-5e81-4ccb-b459-7c48737f5bc5)|
   
 </div>
 </details>
