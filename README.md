@@ -183,11 +183,11 @@
 
  |문서함 메인|내 문서 목록|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (30)](https://github.com/user-attachments/assets/ebe0f832-f6bd-4eb7-88f7-bd7c93130de8)|![finalpjt_fullstack_ui (31)](https://github.com/user-attachments/assets/15d939bf-0779-430b-84d3-3028425c1ee7)|
+ |![finalpjt_fullstack_ui (36)](https://github.com/user-attachments/assets/771aec41-864b-4a7b-bea1-ec3e54bb3134)|![finalpjt_fullstack_ui (37)](https://github.com/user-attachments/assets/4023a0a6-e31f-4643-8c61-88f395482232)|
 
  |문서 작성|문서 상세 페이지|
  |:---:|:---:|
- |![finalpjt_fullstack_ui (33)](https://github.com/user-attachments/assets/a0e0c964-a3d5-4018-9162-ab7fcd4f23e5)|![finalpjt_fullstack_ui (32)](https://github.com/user-attachments/assets/e2f56927-de0f-4da0-93bf-51b88c0c8f84)|
+ |![finalpjt_fullstack_ui (38)](https://github.com/user-attachments/assets/1820c582-03b9-4424-92f1-3bd8cb1dd833)|![finalpjt_fullstack_ui (39)](https://github.com/user-attachments/assets/3be49cf1-221a-4acd-830f-cfb76276c61d)|
 
 </div>
 </details>
