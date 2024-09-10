@@ -110,7 +110,7 @@
  |:---:|:---:|
  |![finalpjt_fullstack_ui (5)](https://github.com/user-attachments/assets/1e3c370d-1fe6-4141-9a68-2246bcf4e295)|![finalpjt_fullstack_ui (6)](https://github.com/user-attachments/assets/cabfa7fa-ce1d-46e7-9881-7c4cf512b309)|
 
- |직원 목록|사용자 로그인 정보|사용자 로그인 정보 수정|직원 이력 정보|직원 이력 정보 수정|
+ |직원 목록|사용자 로그인 정보|사용자 로그인<br/>정보 수정|직원 이력 정보|직원 이력<br/>정보 수정|
  |:---:|:---:|:---:|:---:|:---:|
  |![finalpjt_fullstack_ui (7)](https://github.com/user-attachments/assets/5df284f6-206d-48db-b14b-b7dcd1d0c665)|![finalpjt_fullstack_ui (8)](https://github.com/user-attachments/assets/6f3ac6f6-6ff7-4f68-8242-925bc18fc89f)|![finalpjt_fullstack_ui (9)](https://github.com/user-attachments/assets/a1f3116c-f51b-468c-90e0-44fd1e2c4bcc)|![finalpjt_fullstack_ui (10)](https://github.com/user-attachments/assets/0a4f9746-9e12-4daf-979c-cf887292e2d9)|![finalpjt_fullstack_ui (11)](https://github.com/user-attachments/assets/f22cecd6-e3f8-454f-84f6-06a36684ac1f)|
 
