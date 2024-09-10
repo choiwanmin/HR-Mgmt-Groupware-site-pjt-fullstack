@@ -200,7 +200,7 @@
 </details>
 
 <details>
-<summary style="color:blue;">메일 페이지 보기</summary>
+<summary>메일 페이지 보기</summary>
 <div markdown="1">
  
 </div>
