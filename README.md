@@ -1,4 +1,4 @@
-# KOSTA FINAL PROJECT<br/>(`인사관리&협업도구 SYSTEM` 웹 풀스택 개발)
+# KOSTA FINAL PROJECT<br/>(`인사관리&협업도구 SYSTEM` 풀스택 개발)
 *※ 기존에 수행한 https://github.com/choiwanmin/kosta_final_pjt 프로젝트를 정비 및 정리*
 
 ## 목차
